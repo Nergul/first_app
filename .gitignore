@@ -14,9 +14,10 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
-Gemfile.lock
+#Gemfile.lock
 doc/api
 doc/app
 *.swp
 *~
 .DS_Store
+.gitignore
